@@ -4,6 +4,7 @@ header {
     align-items: center;
     padding: 0 0 0 30px;
     margin: 0;
+    box-shadow: 0px 6px 22px -11px rgba(0,0,0,0.75);
 
     img {
 
@@ -53,6 +54,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     padding: 15px 50px;
+    box-shadow: 0px 0px 12px -1px rgba(0,0,0,0.75);
     
     .copy {
         color: $special-text-color;

@@ -1,0 +1,18 @@
+.slider {
+    font-family: $main-font;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+        font-size: 58px;
+        color: #fff;
+        text-transform: uppercase;
+        margin-top: -80px;
+    }
+
+    .blue {
+        color: #1977b3;
+    }
+}
